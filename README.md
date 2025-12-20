@@ -2,12 +2,6 @@ PHOTONIC COMPUTING COMPILER (PCC) 🌟
 
 Transforming Algorithms into Light-Speed Computation
 
-https://img.shields.io/badge/version-1.0.0-blue
-https://img.shields.io/badge/license-MIT-green
-https://github.com/photonic-compiler/pcc/actions/workflows/ci.yml/badge.svg
-https://img.shields.io/badge/python-3.8%2B-blue
-https://img.shields.io/badge/C%2B%2B-20-blue
-https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey
 
 "We're not just optimizing cycles anymore. We're choreographing light dances where every photon knows its role in the computation before it's even emitted."
 
